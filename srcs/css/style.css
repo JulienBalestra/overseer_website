@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+}
+hr {
+  margin: 0;
+  border-color: #e7e7e7;
+}
+nav.navbar {
+  margin-bottom: 0;
+}
+#features div.row {
+  margin-bottom: 50px;
+}
+.ove-grey {
+  background: #f8f8f8;
+}
+.ove-img {
+  border: solid 1px #dfdfdf;
+  padding: 10px;
+  width: 400px;
+  height: auto;
+}
+.ove-space {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+/*# sourceMappingURL=../css/style.css.map */
